@@ -4,7 +4,7 @@ Wo stehen die Notrufsäulen in Bremerhaven? Welche Notrufsäulen?
 
 Die Feuerwehr Bremerhaven und das THW Bremerhaven werden für die Bürger Bremerhavens und Umgebung vier Informationspunkte im länger anhaltenden Katastrophenfall einrichten. 
 
-Die vier Informationspunkte des Katastrophenschutzes werden auch Starlink Internetkommunikation haben. Die Telefone und Smartphones der Bürger werden keine Möglichkeit haben Rettungskräfte zu alarmieren. Auf Feuerzeichen wird die Feuerwehr achten, aber dann ist es vielleicht schon zu spät und niemand kann mehr gerettet werden. 
+Die vier Informationspunkte des Katastrophenschutzes werden auch Starlink Internetkommunikation haben. Die Telefone und Smartphones der Bürger werden keine Möglichkeit haben Rettungskräfte zu alarmieren. Auf Rauchzeichen wird die Feuerwehr achten, aber dann ist es vielleicht schon zu spät und niemand kann mehr gerettet werden. 
 
 Jede Sekunde zählt.
 
@@ -46,4 +46,4 @@ Jede Sekunde zählt.
 **Kontakt zu den Athleten hinter dieser Aktionskampagne:** 73@runforrestrun-bremerhaven.de
 
 
-Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb
+Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb, bremerhaven
