@@ -31,7 +31,7 @@ global_variables() {
     # You can use twitter or facebook or anything for global_author_url
      global_author_url="https://runforrestrun-bremerhaven.de" 
     # Your email
-    global_email="forrest55@runforrestrun-bremerhaven.de"
+    global_email="55@runforrestrun-bremerhaven.de"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
     global_license="&copy"
