@@ -46,4 +46,4 @@ Jede Sekunde zählt.
 **Kontakt zu den Athleten hinter dieser Aktionskampagne:** 73@runforrestrun-bremerhaven.de
 
 
-Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb, bremerhaven
+Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb
