@@ -40,10 +40,10 @@ Jede Sekunde zählt.
 5. Sieger €250,-
 
 
-**Anmeldung:** 55@runforrestrun-bremerhaven.de
+**Anmeldung:** *<55@runforrestrun-bremerhaven.de>*
 
 
-**Kontakt zu den Athleten hinter dieser Aktionskampagne:** 73@runforrestrun-bremerhaven.de
+**Kontakt zu den Athleten hinter dieser Aktionskampagne:** <73@runforrestrun-bremerhaven.de>
 
 
 Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb

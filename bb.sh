@@ -24,12 +24,12 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="Bremerhavener 2000 Meter Sprintwettbewerb zur Notrufsäule"
     # The public base URL for this blog
-    global_url="http://runforrestrun-bremerhaven.de"
+    global_url="https://runforrestrun-bremerhaven.de"
 
     # Your name
     global_author="Forrest55"
     # You can use twitter or facebook or anything for global_author_url
-     global_author_url="http://runforrestrun-bremerhaven.de" 
+     global_author_url="https://runforrestrun-bremerhaven.de" 
     # Your email
     global_email="forrest55@runforrestrun-bremerhaven.de"
 
