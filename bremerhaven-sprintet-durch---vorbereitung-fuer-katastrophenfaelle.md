@@ -45,6 +45,6 @@ Jede Sekunde zählt.
 
 **Kontakt zu den Athleten hinter dieser Aktionskampagne:** <73@runforrestrun-bremerhaven.de>
 
-> *Geht zu Fuß zu Schuhhaus Fuss.*&copy;
-
 Tags: 2000metersprint, durchstarten-ohne-warmmachen, bremerhaven-startet-durch, barfuss-rennwettbewerb
+
+> *Geht zu Fuß zu Schuhhaus Fuss.*&copy;
