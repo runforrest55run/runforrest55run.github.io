@@ -40,7 +40,8 @@ Jede Sekunde zählt.
 5. Sieger €250,-
 
 
-**Anmeldung:** *<55@runforrestrun-bremerhaven.de>*
+**Anmeldung:** *<55@runforrestrun-bremerhaven.de>*<br>
+*(kostenlose Teilnahme)*
 
 
 **Kontakt zu den Athleten hinter dieser Aktionskampagne:** *<73@runforrestrun-bremerhaven.de>*
