@@ -10,11 +10,31 @@ Jede Sekunde zählt.
 
 **Anlaufpunkte für Forrest55** 
 
+Informationspunkte im Katastrophenfall
+
 * Am Parkbahnhof 11, 27580 Bremerhaven
 * Deichstraße 29, 27568 Bremerhaven
 * Altonaer Straße 11a, 27570 Bremerhaven
 * Batteriestr. 100, 27568 Bremerhaven
 
+
+Polizeireviere in Bremerhaven
+
+* Hinrich-Schmalfeldt-Straße 31, 27576 Bremerhaven
+* Hans-Böckler-Straße 36 e, 27578 Bremerhaven
+* Klußmannstraße 7, 27570 Bremerhaven
+* Obere Bürger 65, 27568 Bremerhaven
+
+
+Feuerwehr Bremerhaven
+
+* Zur Hexenbrücke 12, 27570 Bremerhaven
+
+
+Zolltore in Bremerhaven
+
+* Franziusstraße 1, 27568 Bremerhaven
+* Senator-Borttscheller-Straße 22, 27568 Bremerhaven
   
 <br>  
 
