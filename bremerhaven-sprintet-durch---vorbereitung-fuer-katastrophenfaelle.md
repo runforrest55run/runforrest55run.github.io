@@ -37,7 +37,12 @@ Zolltore in Bremerhaven
 
 * Franziusstraße 1, 27568 Bremerhaven
 * Senator-Borttscheller-Straße 22, 27568 Bremerhaven
-  
+
+
+Wasserschutzpolizei und Bundespolizeirevier in Bremerhaven
+
+* Gatehouse 3, Senator-Borttscheller-Straße 1 b, 27568 Bremerhaven
+
 <br>  
 
 **Disziplinen im 2000 Meter Sprintwettbewerb mit abschliessender und korrekter Notrufmeldung**
