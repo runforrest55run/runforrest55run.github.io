@@ -1,6 +1,6 @@
 Bremerhaven sprintet durch - Vorbereitung für Katastrophenfälle
 
-Wo stehen die Notrufsäulen in Bremerhaven? Welche Notrufsäulen?
+> *Wo stehen die Notrufsäulen in Bremerhaven? Welche Notrufsäulen?*
 
 Die Feuerwehr Bremerhaven und das THW Bremerhaven werden für die Bürger Bremerhavens und Umgebung vier Informationspunkte im länger anhaltenden Katastrophenfall einrichten. 
 
@@ -58,7 +58,7 @@ Jede Sekunde zählt.
   
 <br>  
 
-**Preisgelder in den jeweiligen Kategorien**
+**Preisgelder in den jeweiligen Disziplinen**
 
 1. Sieger €5000,-
 2. Sieger €2500,-
