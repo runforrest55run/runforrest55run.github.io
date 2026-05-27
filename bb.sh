@@ -24,14 +24,14 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="Bremerhavener 2000 Meter Sprintwettbewerb zur Notrufsäule"
     # The public base URL for this blog
-    global_url="https://runforrestrun-bremerhaven.de"
+    global_url="https://runforrest55run.github.io"
 
     # Your name
     global_author="Forrest55"
     # You can use twitter or facebook or anything for global_author_url
-     global_author_url="https://runforrestrun-bremerhaven.de" 
+     global_author_url="https://runforrest55run.github.io" 
     # Your email
-    global_email="55@runforrestrun-bremerhaven.de"
+    global_email="55@"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
     global_license="&copy"
