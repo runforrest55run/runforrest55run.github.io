@@ -37,6 +37,7 @@ Jede Sekunde zählt.
 
 * Franziusstraße 1, 27568 Bremerhaven
 * Senator-Borttscheller-Straße 22, 27568 Bremerhaven
+* Lohmannstraße 80, 27568 Bremerhaven
 
 
 **Wasserschutzpolizei und Bundespolizei in Bremerhaven**
